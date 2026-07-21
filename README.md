@@ -73,8 +73,8 @@
 | Company | Role | Highlights |
 |---|---|---|
 | **Neo Health Co.** | SDE Intern (Current) | Website redesign (Figma + AstroJS), macros-tracking feature (AWS Lambda + DynamoDB), solo Apple HealthKit integration |
-| **Zoho** | Software Engineer | Built responsive POS UIs, led barcode printing & EWay billing features, fixed 20+ security vulnerabilities |
-| **Gofrugal** | Software Development Engineer | Built promotional offer engine, real-time Kitchen Display System, led Angular v7→v13 migration, maintained 99.5% uptime |
+| **Zoho** | Member Technical Staff | Built responsive POS UIs, led barcode printing & EWay billing features, fixed 20+ security vulnerabilities |
+| **Gofrugal** | Member Technical Staff | Built promotional offer engine, real-time Kitchen Display System, led Angular v7→v13 migration, maintained 99.5% uptime |
 
 ---
 
