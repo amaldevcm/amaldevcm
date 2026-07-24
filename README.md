@@ -11,12 +11,12 @@
 
 ### 🚀 About Me
 
-- 🎓 Master's student in Computer Science at **Binghamton University – SUNY**, graduating May 2026
-- 💻 Full-stack Software Development Engineer with 2+ years of professional experience building scalable, distributed systems and cloud-native microservices
-- 🏢 Currently a **Software Development Engineer Intern at Neo Health Co.**, working end-to-end on a health & nutrition app — from Figma-designed frontend redesigns to Apple HealthKit integration
-- 🛠️ Previously shipped production features at **Gofrugal**, working on point-of-sale systems used across thousands of restaurant locations
-- 🔭 Currently building **ResumeForge**, a RAG-based platform that tailors resumes and generates cover letters using vector retrieval + LLM generation
-- 🌱 Actively job hunting for SDE roles at top tech companies, sharpening data structures & algorithms alongside real-world system design
+- 🎓 Master's student in Computer Science at **Binghamton University – SUNY**, graduating August 2026
+- 💻 Full-stack engineer who likes owning things end to end — requirements doc through shipped UI
+- 🏢 Currently a **Software Development Engineer Intern at Neo Health Co.** in New York, working across a Python/AWS Lambda backend and a React Native frontend, including a solo HIPAA-aware Apple HealthKit and Android Health Connect integration
+- 🛠️ Spent close to two years at **GoFrugal**, shipping close to a dozen features on Servquick, a point-of-sale product used across thousands of restaurant locations
+- 🔭 Building **ResumeForge** on the side — a RAG-based platform that tailors resumes and generates cover letters using vector retrieval and LLM generation
+- 🌱 Actively job hunting for full-time SDE roles starting mid-2026
 - ⚡ Fun fact: Top 3 Finalist at the Avangrid Hackathon for a Python-based energy market revenue simulation model
 
 ---
@@ -47,12 +47,14 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white">
 </p>
 
 **Databases**
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white">
 <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white">
 </p>
@@ -63,6 +65,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
 
@@ -72,9 +75,8 @@
 
 | Company | Role | Highlights |
 |---|---|---|
-| **Neo Health Co.** | SDE Intern (Current) | Website redesign (Figma + AstroJS), macros-tracking feature (AWS Lambda + DynamoDB), solo Apple HealthKit integration |
-| **Zoho** | Member Technical Staff | Built responsive POS UIs, led barcode printing & EWay billing features, fixed 20+ security vulnerabilities |
-| **Gofrugal** | Member Technical Staff | Built promotional offer engine, real-time Kitchen Display System, led Angular v7→v13 migration, maintained 99.5% uptime |
+| **Neo Health Co.** | SDE Intern (Current) | Website redesign (Figma + AstroJS), macros-tracking feature (AWS Lambda + DynamoDB), solo Apple HealthKit + Android Health Connect integration |
+| **GoFrugal** | Member Technical Staff (Intern → Full-Time) | Owned ~10 Servquick features end-to-end — offer management, loyalty rules, wastage tracking, barcode printing — plus a full Angular v7→v13 migration |
 
 ---
 
