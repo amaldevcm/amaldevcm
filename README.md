@@ -16,7 +16,7 @@
 - 🏢 Most recently a **Software Development Engineer Intern at Neo Health Co.** (June–August 2026), where I owned an LLM-backed macro-targeting feature and shipped a solo, HIPAA-aware Apple HealthKit / Android Health Connect integration
 - 🛠️ Before that, spent ~2 years at **GoFrugal (a Zoho Company)**, shipping 12+ features on Servquick, a cloud POS/ERP platform used in 1,500+ restaurants
 - 🔭 Building **ResumeForge** on the side — a RAG-based platform that tailors resumes and generates cover letters using vector retrieval and LLM generation
-- 🌱 Actively job hunting for full-time SDE and data-track roles
+- 🌱 Actively job hunting for full-time SDE roles
 - ⚡ Fun fact: Top 3 Finalist at the Avangrid Hackathon for a Python-based energy market cash-flow simulation
 
 ---
