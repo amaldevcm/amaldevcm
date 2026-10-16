@@ -62,21 +62,6 @@
 
 ---
 
-### 💼 Experience Snapshot
-
-| Company | Role | Highlights |
-|---|---|---|
-| **Neo Health Co.** | SDE Intern (Jun–Aug 2026) | LLM-backed macro-targeting feature on AWS Lambda + Bedrock + DynamoDB (p95 < 1.8s); solo Apple HealthKit + Android Health Connect integration; cut redundant API calls 40% |
-| **GoFrugal (a Zoho Company)** | Member Technical Staff (Sep 2021 – Aug 2023) | Owned 12+ Servquick features end-to-end — loyalty engine, partial-payment billing, e-way bill integration; led Angular v13 migration cutting load time from 6s to 2.5s |
-
----
-
-### 🔭 Featured Project
-
-**ResumeForge** — a RAG-based platform that tailors resumes and generates cover letters using vector retrieval and LLM generation.
-
----
-
 ### 📫 Let's Connect
 
 <p align="left">
